@@ -1,0 +1,18 @@
+* grau: Indica o nível do curso, como Bacharelado, Tecnológico, etc.
+* turno: O período do dia em que as aulas são realizadas, como Matutino, Noturno, etc.
+* mensalidade: O valor da mensalidade do curso.
+* bolsa_integral_cotas: Número de bolsas integrais disponíveis para cotas.
+* bolsa_integral_ampla: Número de bolsas integrais disponíveis para ampla concorrência.
+* bolsa_parcial_cotas: Número de bolsas parciais disponíveis para cotas.
+* bolsa_parcial_ampla: Número de bolsas parciais disponíveis para ampla concorrência.
+* cidade_busca: Cidade onde o curso é oferecido.
+* uf_busca: Estado onde o curso é oferecido.
+* cidade_filtro: Cidade onde a universidade está localizada.
+* universidade_nome: Nome da universidade que oferece o curso.
+* campus_nome: Nome do campus onde o curso é ministrado.
+* campus_id: Identificação única do campus.
+* nome_curso: Nome do curso.
+* nota_integral_ampla: Nota de corte para bolsa integral na ampla concorrência.
+* nota_integral_cotas: Nota de corte para bolsa integral em cotas.
+* nota_parcial_ampla: Nota de corte para bolsa parcial na ampla concorrência.
+* nota_parcial_cotas: Nota de corte para bolsa parcial em cotas.
