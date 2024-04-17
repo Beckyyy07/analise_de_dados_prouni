@@ -1,4 +1,13 @@
 <h1>Análise de dados Prouni</h1>
+<h2>Participantes: </h2>
+<ul>
+  <li>Adriel Estoller</li>
+  <li>Anderson Veloso</li>
+  <li>Emesson Silva</li>
+  <li>Gabriel Guerra</li>
+  <li>Gabriel Wanderlei</li>
+  <li>Rebeka Dias</li>
+</ul>
 <h2>Justificativa para  escolha do dataset: </h2>
 O acesso à educação médica de qualidade é crucial para garantir uma força de trabalho médica suficiente e bem preparada para atender às necessidades da população. Analisar o acesso aos cursos de Medicina por meio do Prouni pode fornecer insights sobre a distribuição geográfica desses cursos, bem como sobre a acessibilidade financeira para estudantes de baixa renda.
 
